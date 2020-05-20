@@ -31,6 +31,15 @@ For both the IHME and MSPH projected data, we reduced the shape of the data to o
 
 The IHME dataset includes projections for many variables, such as hospital capacity, mobility rates, and cumulative deaths. However, the most important factor determining how a natural disaster would interact with the pandemic is the prevalence of the virus in the local community. We therefore decided to focus only on the estimated number of daily new infections, and to scale this figure in proportion to the size of the local population. Following California’s guidelines for the reopening of counties, we labeled communities (state or county) with one or more new daily infections per 10,000 residents as experiencing severe COVID conditions.
 
+**Data Dictionary**
+
+| Feature  | Description  |
+|---|---|
+|est_new_infections    |Estimated number of daily new infections   |
+|est_population  |Estimated population size from 2019 based on the 2010 census   |
+|daily_infection_rate  |Estimated number of daily new infections per 10,000 people in the local population   |
+|severe   |1 if the daily infection rate is 1 or above; 0 if below 1   |
+
 
 ## Conclusions
 Our analysis of the projections for the spread of COVID-19 shows that, even though the prevalence of the disease was already declining in many communities due to social distancing, a significant number of communities remain at risk for severe COVID conditions over the next few months. Most states are likely to have at least one day of severe COVID conditions, and some (such as North Carolina, Pennsylvania, and Arizona) are projected to remain under severe conditions until late July and into August. The national projections put the state of California around the mean for severe COVID conditions during this period. However, the more granular projections for the state itself reveals that less than half of California counties are likely to experience severe COVID conditions before the end of June. In other words, within California, the pandemic is likely to remain concentrated in a relatively small number of counties, mostly in Southern California around Los Angeles and in Northern California’s Bay Area around San Francisco. The other sections of this repository examine the likelihood that these same communities at risk for severe COVID conditions will also experience natural disasters at the same time.
