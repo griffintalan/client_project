@@ -1,0 +1,31 @@
+incidentType,declaredCountyArea,beginMonth,total,yearlyrate
+Fire,Los Angeles (County),7,3,0.3
+Fire,Lake (County),7,3,0.3
+Fire,Napa (County),7,2,0.2
+Fire,San Diego (County),5,2,0.2
+Fire,Shasta (County),7,2,0.2
+Fire,Kern (County),7,2,0.2
+Fire,Los Angeles (County),6,2,0.2
+Fire,San Diego (County),7,1,0.1
+Fire,San Bernardino (County),7,1,0.1
+Fire,San Diego (County),6,1,0.1
+Earthquake,Kern (County),7,1,0.1
+Fire,Riverside (County),7,1,0.1
+Fire,Shasta (County),6,1,0.1
+Fire,Siskiyou (County),7,1,0.1
+Fire,Solano (County),7,1,0.1
+Fire,Ventura (County),5,1,0.1
+Fire,Santa Barbara (County),7,1,0.1
+Fire,Monterey (County),7,1,0.1
+Fire,Riverside (County),5,1,0.1
+Earthquake,San Bernardino (County),7,1,0.1
+Fire,Mendocino (County),7,1,0.1
+Fire,Mariposa (County),7,1,0.1
+Fire,Los Angeles (County),5,1,0.1
+Fire,Lake (County),6,1,0.1
+Fire,Kern (County),6,1,0.1
+Fire,Karuk Reservation,7,1,0.1
+Fire,Hopland Rancheria (Indian Reservation),7,1,0.1
+Fire,Fresno (County),7,1,0.1
+Fire,Butte (County),7,1,0.1
+Fire,Yolo (County),7,1,0.1

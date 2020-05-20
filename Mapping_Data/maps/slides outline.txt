@@ -1,0 +1,56 @@
+Presentation Notes
+
+
+	- Combined Historic
+
+		- Since the beginning of the year, most natural disasters seen in the US up until late march (first major signs of infections)
+		  fall into the categories of floods or severe storms, with a tornado also appearing in Tennessee
+
+		- at the beginning of april, a myriad of storms causing havoc in the SE united states coincided with NY's major outbreak
+			- Tennessee was experiencing one of the worst total infections / populations at the time and was hit by storms
+		- the region hit by these storms seemed to be doing poorly with infections by the end of the month
+		- when looking at the article [], we can see that this storm drastically affected the region and may have contributed
+			to the relative spread in the region 
+			- "In Alabama, people seeking shelter from tornadoes huddled in community shelters, protective masks covering their faces to guard against the new coronavirus."
+			- Mississippi Gov. Tate Reeves said the storms were “as bad or worse than anything we’ve seen in a decade.”
+			- Georgia Gov. Brian Kemp said some storm victims already were out of work because of shutdowns caused by COVID-19. "Now they have lost literally everything they own,”
+			- https://www.usnews.com/news/us/articles/2020-04-13/easter-storms-sweep-south-killing-at-least-12-peoplehttps://www.usnews.com/news/us/articles/2020-04-13/easter-storms-sweep-south-killing-at-least-12-people
+
+
+
+		- Even if the virus does not displace enough people or cause enough people to stop sheltering
+			- the financial burdens placed on a state and emergency response capacity is lowered
+
+		- Using projected data from brooks and Alicia, I wanted to see which regions of the US were potential 'risk zones' moving forward
+
+		- Due to the unpredictability or infrequency of certain natural disasters (Earthquake, volcano)
+			only Hurricanes, Floods, and Fires were projected
+
+
+
+		- HURRICANES
+			- Gulf storms are more prevalent in the beginning of the hurricane season, making states such as TX, LA, MS, AL, and FL more susceptible in the near future
+				- june / july
+			- major uptick in hurricanes in August - slamming entire coast
+				- this forecasts to be a major problem for NC, and any other state who sees increases late in summer
+
+
+		- Flooding
+			- In May and Early june, the areas most at risk for flooding are those in the central united states
+				- the missouri basin / Arkansas-White River Basin / Red River basin run through some of the most
+					- https://www.memphisweather.blog/2011/04/attention-turns-from-severe-weather-to.html
+				- highly projected growing impact zones in the country
+			- By mid june, the flooding has subsided, but still affects the general area
+			- nothing major in August
+
+		- Fire
+			- The SW united states see rapidly increasing rates of fire between May-August and will need to be prepared
+				- The west coast is doing comparatively well with other parts of the country, but fires are fast and furious 
+				- AZ is the only state with noticeably elevated projections in the area
+					- very high rate of infection in navajo tribes
+						- https://www.abc15.com/news/state/navajo-nation-continues-to-be-hit-hard-by-coronavirus-as-arizona-reopens
+					- az elderly population is higher than average
+						- image
+		- 
+
+		

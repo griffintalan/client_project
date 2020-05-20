@@ -1,0 +1,120 @@
+incidentType,incidentBeginDate,address,latitude,longitude
+Tornado,2020-03-03 00:01:00+00:00,"Wilson County, TN",36.1466658,-86.3119998
+Tornado,2020-03-03 00:01:00+00:00,"Putnam County, TN",36.1379872,-85.4553784
+Tornado,2020-03-03 00:01:00+00:00,"Davidson County, TN",36.189724,-86.7857862
+Fire,2020-03-07 08:00:00+00:00,"Beaver County, OK",36.7621116,-100.4904955
+Flood,2020-01-10 00:00:00+00:00,"Milwaukee County, WI",43.018032500000004,-87.97408733038324
+Flood,2020-01-10 00:00:00+00:00,"Racine County, WI",42.729386,-88.04298063721984
+Flood,2020-01-10 00:00:00+00:00,"Kenosha County, WI",42.5729233,-88.0679837
+Severe Storm(s),2020-01-10 01:00:00+00:00,"Bolivar County, MS",33.7702263,-90.8519798
+Severe Storm(s),2020-01-10 01:00:00+00:00,"Choctaw County, MS",33.3569348,-89.2390212
+Severe Storm(s),2020-01-10 01:00:00+00:00,"Clay County, MS",33.6393012,-88.7957063
+Severe Storm(s),2020-01-10 01:00:00+00:00,"Clay County, MS",33.6393012,-88.7957063
+Severe Storm(s),2020-02-10 16:18:00+00:00,"Clay County, MS",33.6393012,-88.7957063
+Severe Storm(s),2020-02-10 16:18:00+00:00,"Clay County, MS",33.6393012,-88.7957063
+Severe Storm(s),2020-01-10 01:00:00+00:00,"DeSoto County, MS",34.8703284,-89.9778704
+Severe Storm(s),2020-01-10 01:00:00+00:00,"Oktibbeha County, MS",33.4131096,-88.8937318
+Severe Storm(s),2020-01-10 01:00:00+00:00,"Panola County, MS",34.3793392,-89.9601925
+Severe Storm(s),2020-01-10 01:00:00+00:00,"Prentiss County, MS",34.6222512,-88.5153286
+Severe Storm(s),2020-01-10 01:00:00+00:00,"Sunflower County, MS",33.4980504,-90.602067
+Severe Storm(s),2020-01-10 01:00:00+00:00,"Tishomingo County, MS",34.7238634,-88.2268403
+Severe Storm(s),2020-01-10 01:00:00+00:00,"Washington County, MS",33.2626706,-90.9183546
+Severe Storm(s),2020-02-06 16:18:00+00:00,"Anderson County, SC",34.5258335,-82.652962
+Severe Storm(s),2020-02-06 16:18:00+00:00,"Greenville County, SC",34.8550021,-82.3356457
+Severe Storm(s),2020-02-06 16:18:00+00:00,"Chester County, SC",34.6859896,-81.1545073
+Severe Storm(s),2020-02-06 16:18:00+00:00,"Newberry County, SC",34.3266879,-81.5830086
+Severe Storm(s),2020-02-06 16:18:00+00:00,"Oconee County, SC",34.7622221,-83.1099645
+Severe Storm(s),2020-02-06 16:18:00+00:00,"Oconee County, SC",34.7622221,-83.1099645
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Oconee County, SC",34.7622221,-83.1099645
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Oconee County, SC",34.7622221,-83.1099645
+Severe Storm(s),2020-02-06 16:18:00+00:00,"Pickens County, SC",34.8882592,-82.7193824
+Severe Storm(s),2020-02-06 16:18:00+00:00,"Pickens County, SC",34.8882592,-82.7193824
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Pickens County, SC",34.8882592,-82.7193824
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Pickens County, SC",34.8882592,-82.7193824
+Severe Storm(s),2020-02-06 16:18:00+00:00,"Spartanburg County, SC",34.937029,-81.9955954
+Tornado,2020-03-03 00:01:00+00:00,"Benton County, TN",36.0345286,-88.101285
+Tornado,2020-03-03 00:01:00+00:00,"Carroll County, TN",35.9631851,-88.4487987
+Tornado,2020-03-03 00:01:00+00:00,"Smith County, TN",36.2549331,-85.9741567918973
+Severe Storm(s),2020-02-06 16:18:00+00:00,"Bamberg County, SC",33.2130154,-81.0166235
+Severe Storm(s),2020-02-06 16:18:00+00:00,"Barnwell County, SC",33.2641009,-81.4190808
+Severe Storm(s),2020-02-06 16:18:00+00:00,"Barnwell County, SC",33.2641009,-81.4190808
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Barnwell County, SC",33.2641009,-81.4190808
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Barnwell County, SC",33.2641009,-81.4190808
+Severe Storm(s),2020-02-06 16:18:00+00:00,"Hampton County, SC",32.7861789,-81.1237271
+Severe Storm(s),2020-02-06 16:18:00+00:00,"Hampton County, SC",32.7861789,-81.1237271
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Hampton County, SC",32.7861789,-81.1237271
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Hampton County, SC",32.7861789,-81.1237271
+Flood,2020-02-05 00:00:00+00:00,"Umatilla County, OR",45.6416995,-118.7671122
+Flood,2020-02-05 00:00:00+00:00,"Wallowa County, OR",45.5582608,-117.1990173
+Flood,2020-02-05 00:00:00+00:00,"Union County, OR",45.2680014,-118.0257466
+Severe Storm(s),2020-01-10 01:00:00+00:00,"Chickasaw County, MS",33.9137474,-88.9357382
+Severe Storm(s),2020-01-10 01:00:00+00:00,"Quitman County, MS",34.1920186,-90.2946542
+Severe Storm(s),2020-01-10 01:00:00+00:00,"Tallahatchie County, MS",33.9414425,-90.1577411
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Covington County, MS",31.6143213,-89.5278045
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Jones County, MS",31.6058959,-89.1636245
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Jefferson Davis County, MS",31.5576951,-89.8386843
+Flood,2020-01-20 00:00:00+00:00,"Columbia County, WA",46.2947665,-117.9174697
+Flood,2020-01-20 00:00:00+00:00,"Mason County, WA",47.3429635,-123.1822758
+Flood,2020-01-20 00:00:00+00:00,"Grays Harbor County, WA",47.1744169,-123.8658829
+Flood,2020-01-20 00:00:00+00:00,"Skagit County, WA",48.4596092,-121.7332784
+Flood,2020-01-20 00:00:00+00:00,"Thurston County, WA",46.9319983,-122.8855155
+Flood,2020-01-20 00:00:00+00:00,"Island County, WA",48.2162669,-122.6842402
+Flood,2020-01-20 00:00:00+00:00,"Pacific County, WA",46.5334929,-123.768029
+Flood,2020-01-20 00:00:00+00:00,"Snohomish County, WA",48.0074736,-121.7304882
+Flood,2020-01-20 00:00:00+00:00,"San Juan County, WA",48.5443087,-122.9919497
+Flood,2020-01-20 00:00:00+00:00,"Lewis County, WA",46.5612011,-122.4225561
+Flood,2020-01-20 00:00:00+00:00,"Walla Walla County, WA",46.2055155,-118.5174284
+Flood,2020-01-20 00:00:00+00:00,"Garfield County, WA",46.4604687,-117.5294769
+Flood,2020-01-20 00:00:00+00:00,"Wahkiakum County, WA",46.2794223,-123.3452562
+Flood,2020-01-20 00:00:00+00:00,"Whatcom County, WA",48.8107819,-121.8828175
+Flood,2020-01-20 00:00:00+00:00,"King County, WA",47.4873376,-121.8622122
+Severe Storm(s),2020-02-10 16:18:00+00:00,"Attala County, MS",33.0777868,-89.5680661
+Severe Storm(s),2020-02-10 16:18:00+00:00,"Carroll County, MS",33.4230182,-89.9110025
+Severe Storm(s),2020-02-10 16:18:00+00:00,"Claiborne County, MS",31.9640731,-90.9141968
+Severe Storm(s),2020-02-10 16:18:00+00:00,"Copiah County, MS",31.8563532,-90.4798717
+Severe Storm(s),2020-02-10 16:18:00+00:00,"Grenada County, MS",33.772401,-89.7674875
+Severe Storm(s),2020-02-10 16:18:00+00:00,"Hinds County, MS",32.2506754,-90.4793259
+Severe Storm(s),2020-02-10 16:18:00+00:00,"Leflore County, MS",33.5244154,-90.288095
+Severe Storm(s),2020-02-10 16:18:00+00:00,"Warren County, MS",32.3649878,-90.7975574
+Severe Storm(s),2020-02-10 16:18:00+00:00,"Holmes County, MS",33.1018124,-90.0656168
+Severe Storm(s),2020-02-10 16:18:00+00:00,"Yazoo County, MS",32.7709321,-90.4120889
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Bell County, KY",36.7370344,-83.6491695
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Boyd County, KY",38.3608934,-82.6945926
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Butler County, KY",37.240158,-86.673921
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Clay County, KY",37.1540436,-83.723144
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Hickman County, KY",36.6903525,-88.9587214
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Henderson County, KY",37.76721,-87.5573742
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Knott County, KY",37.3521946,-82.9314574
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Johnson County, KY",37.8397984,-82.8159642
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Harlan County, KY",36.8411336,-83.22678
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Leslie County, KY",37.082981,-83.3750732
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Lawrence County, KY",38.0601807,-82.7316588
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Knox County, KY",36.8934427,-83.8545725
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Letcher County, KY",37.1208843,-82.8451698
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Lewis County, KY",38.5192128,-83.3400338
+Severe Storm(s),2020-02-03 16:18:56+00:00,"McCracken County, KY",37.0335839,-88.7107201
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Magoffin County, KY",37.6859873,-83.039044
+Severe Storm(s),2020-02-03 16:18:56+00:00,"McCreary County, KY",36.735774,-84.4960095
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Menifee County, KY",37.9357602,-83.6014187
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Metcalfe County, KY",36.9767017,-85.6254484
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Monroe County, KY",36.699465,-85.7284653
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Morgan County, KY",37.9198759,-83.2097119
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Owsley County, KY",37.4082295,-83.681994
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Pike County, KY",37.4512431,-82.3855722
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Perry County, KY",37.2203608,-83.1640699
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Powell County, KY",37.8192526,-83.8239902
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Hamilton County, TN",35.1755638,-85.1940792
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Whitley County, KY",36.7324324,-84.1512134
+Severe Storm(s),2020-02-03 16:18:56+00:00,"Union County, KY",37.637247,-87.958036
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Campbell County, TN",36.3865389,-84.1351617
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Bradley County, TN",35.1694469,-84.855938
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Monroe County, TN",35.4397238,-84.239964
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Scott County, TN",36.4380433,-84.5095507
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Polk County, TN",35.1269463,-84.5303524
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Marion County, TN",35.1507807,-85.617868
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Washington County, TN",36.2636501,-82.4911791
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Aiken County, SC",33.5723191,-81.6182086
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Colleton County, SC",32.8620726,-80.677114
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Georgetown County, SC",33.4392245,-79.3343041
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Marlboro County, SC",34.5810346,-79.6742033
+Severe Storm(s),2020-04-12 05:59:00+00:00,"Orangeburg County, SC",33.4054944,-80.778429
